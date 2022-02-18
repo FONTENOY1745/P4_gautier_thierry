@@ -99,7 +99,7 @@ a:hover {
 }
 
 .d-bloc {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgb(56, 52, 52) !important;
 }
 
 .d-bloc button:hover,
@@ -724,10 +724,10 @@ address a:focus {
   font-weight: bold;
 }
 #bloc-6 h1 {
-  color: white !important;
+  color: rgb(56, 52, 52) !important;
 }
 #bloc-6 p {
-  color: white !important;
+  color: rgb(56, 52, 52) !important;
   font-size: 17px;
 }
 #bloc-8 h2 {
@@ -819,7 +819,7 @@ h4 {
 }
 
 .white {
-  color: #ffffff !important;
+  color: rgb(56, 52, 52) !important;
 }
 
 .portfolio-thumb {
